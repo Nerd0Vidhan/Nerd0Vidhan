@@ -86,9 +86,9 @@
 
 | 📂 Project | 📝 Description | 💻 Tech Stack |
 | :--- | :--- | :--- |
-| <a href="https://github.com/Nerd0Vidhan/SyAi">**SyAi - Personal Assistant**</a><br/>*(Click to View)* | A personalized assistant app focused on fitness tracking and daily tasks. [cite_start]Uses AI for conversational support and recommendations[cite: 17]. | `Kotlin` `Jetpack Compose` `AI Chatbot API` `Sensors` |
-| <a href="https://github.com/Nerd0Vidhan/Annapurna">**Annapurna**</a><br/>*(Click to View)* | [cite_start]Food Charity App integrating user authentication and real-time database to manage donations between NGOs and volunteers[cite: 23]. | `Kotlin` `Firebase` `Google Maps` `Auth` |
-| <a href="https://github.com/Nerd0Vidhan/Virse">**Virse**</a><br/>*(Click to View)* | [cite_start]A secure, real-time chat application implementing messaging and cloud-based media storage with a focus on data security[cite: 27]. | `Java` `Firebase Realtime DB` `XML` |
+| <a href="https://github.com/Nerd0Vidhan/SyAi-Public">**SyAi - Personal Assistant**</a><br/>*(Click to View)* | A personalized assistant app focused on fitness tracking and daily tasks. [cite_start]Uses AI for conversational support and recommendations[cite: 17]. | `Kotlin` `Jetpack Compose` `AI Chatbot API` `Sensors` |
+| <a href="https://github.com/shreyagargg/annapurna-food-charity-app">**Annapurna**</a><br/>*(Click to View)* | [cite_start]Food Charity App integrating user authentication and real-time database to manage donations between NGOs and volunteers[cite: 23]. | `Kotlin` `Firebase` `Google Maps` `Auth` |
+| <a href="https://github.com/Nerd0Vidhan/Virse-Chat-app">**Virse**</a><br/>*(Click to View)* | [cite_start]A secure, real-time chat application implementing messaging and cloud-based media storage with a focus on data security[cite: 27]. | `Java` `Firebase Realtime DB` `XML` |
 
 </div>
 
