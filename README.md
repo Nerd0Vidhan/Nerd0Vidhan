@@ -304,7 +304,7 @@ https://github.com/Nerd0Vidhan/Virse-Chat-app
 </a>
 
 <a href="tel:+918059681569">
-<img src="https://img.shields.io/badge/Phone-D4AF37?style=for-the-badge&logo=googlemessages&logoColor=black"/>
+<img src="https://img.shields.io/badge/+91%208059681569-2E7D32?style=for-the-badge&logo=googlemessages&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vidhan-tiwari-254819212/">
