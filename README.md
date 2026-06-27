@@ -218,16 +218,6 @@ Spring Boot              ███████████░░░░░░░�
 
 ---
 
-# Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nerd0Vidhan&theme=github-compact"/>
-
-</div>
-
----
-
 <a id="projects"></a>
 
 # Featured Projects
